@@ -65,13 +65,18 @@ For Hardware:
 For Hardware:
 
 # Schematic & Circuit
-Arduino Uno controls five SG90 servo motors. The signal wires of the servos are connected to digital pins D3, D5, D6, D9, and D10. The red power wires are connected to the 5V supply and the brown wires are connected to GND through the breadboard. The Arduino is programmed to control the servo angles and create synchronized Thiruvathira-inspired movements.
+<img width="774" height="1024" alt="WhatsApp Image 2026-09-12 at 4 37 13 AM" src="https://github.com/user-attachments/assets/ee8043fd-e03c-4a7d-b908-eb790f98506e" />
 
-![Schematic](Add your schematic diagram here)
+Arduino Uno controls five SG90 servo motors. The signal wires of the servos are connected to digital pins D3, D5, D6, D9, and D10. The red power wires are connected to the 5V supply and the brown wires are connected to GND through the breadboard. The Arduino is programmed to control the servo angles and create synchronized Thiruvathira-inspired movements.
+<img width="768" height="1024" alt="WhatsApp Image 2026-09-12 at 4 37 23 AM" src="https://github.com/user-attachments/assets/a5e8946a-ff40-4220-94eb-8d7f5c5e161a" />
+
 The Arduino Uno acts as the main controller and is connected to five SG90 servo motors. Each servo receives a control signal from Arduino digital pins D3, D5, D6, D9, and D10. The servos share a common 5V power supply and GND through the breadboard. The programmed servo movements control the dolls to perform synchronized Thiruvathira-inspired dance movements.
-+
+
+
+
 # Build Photos
-image component
+<img width="1206" height="677" alt="WhatsApp Image 2026-09-12 at 4 35 33 AM" src="https://github.com/user-attachments/assets/ad1fe8da-9573-4ec6-b8f1-2ff6e19f4c87" />
+
 List out all components shown:
 1. Arduino Uno
 2. 5 × SG90 Servo Motors
@@ -90,7 +95,8 @@ List out all components shown:
     * +5V
     * GND
 
-![Build](Add photos of build process here)
+<img width="1280" height="1600" alt="WhatsApp Image 2026-09-12 at 9 16 27 AM" src="https://github.com/user-attachments/assets/740268e7-a8c5-4381-aa92-d117d7fa8ed5" />
+
 Explain the build steps:
 1. Prepare the base
     * Take an A4-sized base board.
@@ -135,7 +141,8 @@ Explain the build steps:
     * Play the song separately from a phone/laptop while the Arduino runs the choreography.
 10. Final assembly
 
-![Final](Add photo of final product here)
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-12 at 9 13 13 AM" src="https://github.com/user-attachments/assets/1cf2e640-5462-4976-bb14-8ef337618000" />
+
 The final model will look like a small robotic Thiruvathira performance setup.
 
 * 6 doll figures are arranged on an A4-sized base in a circular/semicircular formation.
@@ -150,20 +157,15 @@ The final model will look like a small robotic Thiruvathira performance setup.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
+https://github.com/user-attachments/assets/74bc0885-2caf-4a22-b389-4ca09f1680c9
+
+
 
 
 The video demonstrates a miniature Thiruvathira-inspired robotic dance setup using servo motors. The movement of the doll figures is controlled through programmed servo movements, creating synchronized hand movements and dance patterns. Our project, Servo Natyam, is based on this concept and adapts it using Arduino and five servo motors.
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
